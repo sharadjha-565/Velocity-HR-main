@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "daisyui": {
+      "command": "D:\\MajorProject-I\\velocity-h\\daisyui-mcp\\venv\\Scripts\\python.exe",
+      "args": ["D:\\MajorProject-I\\velocity-h\\daisyui-mcp\\mcp_server.py"]
+    }
+  }
+}
